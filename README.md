@@ -2,6 +2,7 @@
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![WindSurf AI](https://img.shields.io/badge/WindSurf_AI-2D2D2D?style=for-the-badge)
 
 Easily add Windsurf applications to the Windows context menu.
 
