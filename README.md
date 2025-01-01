@@ -3,7 +3,9 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-Easily add applications to the Windows context menu.
+Easily add Windsurf applications to the Windows context menu.
+
+![Screenshot](./ws.png)
 
 ## ✨ Features
 
